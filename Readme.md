@@ -14,7 +14,7 @@ A Web Form to be automated.
 
 ## Procedure:
 ### Create a New Project in UiPath Studio:
-Open UiPath Studio and create a new project by selecting Process under the New Project tab.<br>
+Open UiPah Studio and create a new project by selecting Process under the New Project tab.<br>
 Name the process (e.g., Web Form Automation Using Application/Browser) and click Create.
 
 ### Install the Browser Extension:
